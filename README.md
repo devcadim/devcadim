@@ -58,7 +58,7 @@
   - **Java** e **Spring Boot** 
   - Virtualização de containers
   - Serviços cloud na **AWS**
-- 🔭 **Projeto Pessoal:** [FastUp](http://www.fastup.top) - Uma plataforma para download e upload de arquivos.
+- 🔭 **Projeto Pessoal:** [FastUp](http://www.fastup.top) - Uma plataforma para download e upload de arquivos (Projeto Já Offline!)
 - 🎯 **Objetivo:** Buscando uma oportunidade para atuar como **Desenvolvedor Back-End Jr/Trainee** em projetos desafiadores
 
 ---
