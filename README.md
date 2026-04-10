@@ -1,12 +1,10 @@
 <h1 align="center">Olá! 👋 Eu sou o Ricardo Oliveira</h1>
 <h3 align="center">Desenvolvedor Júnior | Java | Spring Boot | APIs REST</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Transformando+código+em+soluções;Desenvolvedor+Back-End+Java;Aprendizado+Contínuo+💡" alt="Typing SVG" /></a>
-</p>
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Transformando+código+em+soluções;Desenvolvedor+Back-End+Java;Aprendizado+Contínuo)](https://git.io/typing-svg)
-
+</div>
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
